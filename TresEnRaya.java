@@ -542,7 +542,7 @@ public class TresEnRaya extends javax.swing.JFrame {
 
     private void btn_aCercaDeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_aCercaDeActionPerformed
         
-        JOptionPane.showMessageDialog(null,"Aplicación creada con Java Swing\npor Carlos Gómez Pino.","A cerca de",JOptionPane.INFORMATION_MESSAGE);
+        JOptionPane.showMessageDialog(null,"Aplicación creada con Java Swing\npor Osmer Cardona\nFabiola Guzman\nRonal Perez.","A cerca de",JOptionPane.INFORMATION_MESSAGE);
     }//GEN-LAST:event_btn_aCercaDeActionPerformed
 
     private void btn_reiniciarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_reiniciarActionPerformed
